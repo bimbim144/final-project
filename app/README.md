@@ -54,7 +54,8 @@ docker volume ls
 docker network ls
 ```
 **Dokumentasi/Screenshot:**
-![Proses Build Sukses](image/Docker,ps,ls.png,compose.png)
+![Proses Build Sukses](image/Dockerpsls.png)
+![Proses Build Sukses](image/composeup.png)
 
 ### Langkah 3: [Tulis Nama Langkah 2, Contoh: Tag dan Push ke Docker Hub]
 
