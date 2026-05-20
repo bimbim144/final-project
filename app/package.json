@@ -1,0 +1,17 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.2",
+    "mysql2": "^3.22.3"
+  },
+  "description": "Laporan Hasil Praktikum: Final Project Aplikasi Berbasis Container",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
